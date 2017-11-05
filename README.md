@@ -6,3 +6,5 @@ http://stackoverflow.com/questions/2628672/what-should-every-javascript-programm
 
 ## notes
 vim X clipboard integration silently fails unless you also have a vim gui installed, e.g., vim-gtk. Then suddenly the clipboard registers "+ and "*  will work, e.g., in commands like "*yy #vim
+
+Mixing python subprocess and python thread can lead to deadlocks if two threads fork a subprocess at the same time. Affects cpython 2.x and maybe others. See https://bugs.python.org/issue2320  #python

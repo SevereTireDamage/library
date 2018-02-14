@@ -4,6 +4,8 @@ Links and notes to resources I've found helpful and that are either too specific
 ## links
 http://stackoverflow.com/questions/2628672/what-should-every-javascript-programmer-know/2629004#2629004 #technical #javascript
 
+https://eli.thegreenplace.net/2012/12/17/dumping-a-c-objects-memory-layout #clang #objects #memory-layout
+
 ## notes
 vim X clipboard integration silently fails unless you also have a vim gui installed, e.g., vim-gtk. Then suddenly the clipboard registers "+ and "*  will work, e.g., in commands like "*yy #vim
 

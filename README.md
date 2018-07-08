@@ -20,6 +20,8 @@ https://github.com/XiphosResearch/netelf #inmemory #elf #linux
 
 http://www.beginnertriathlete.com/mobile/Article.html?articleId=486 #fitness #exercise #core
 
+http://riseshinecook.ca/blog/gluten-free-vegan-broccoli-pizza-crust--green-pea-hummus #food #vegetarian #vegan #recipe
+
 ## notes
 vim X clipboard integration silently fails unless you also have a vim gui installed, e.g., vim-gtk. Then suddenly the clipboard registers "+ and "*  will work, e.g., in commands like "*yy #vim
 
